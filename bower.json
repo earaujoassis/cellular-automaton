@@ -1,0 +1,34 @@
+{
+  "name": "hexagol",
+  "version": "0.0.0",
+  "homepage": "https://github.com/earaujoassis/hexagol",
+  "authors": [
+    "Ewerton Assis <hey@ewerton-araujo.com>"
+  ],
+  "description": "An hexagonal Game of Life implementation",
+  "main": "source/index.html",
+  "keywords": [
+    "webapp",
+    "game",
+    "of",
+    "life",
+    "algorithms",
+    "science",
+    "experiment",
+    "model"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "source/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "~3.0.0",
+    "Snap.svg": "~0.2.0"
+  }
+}
