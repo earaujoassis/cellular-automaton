@@ -26,6 +26,6 @@
 
 ## License
 
-Please refer to the included **LICENCE file** for terms of use.
+Please refer to the included **LICENSE file** for terms of use.
 
 [MIT License](http://ewerton-araujo.mit-license.org/) &copy; Ewerton Assis
