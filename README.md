@@ -7,7 +7,7 @@
 0. Clone this repo
 
    ```sh
-   $ git clone git@github.com:earaujoassis/hexagol.git
+   $ git clone git@github.com:earaujoassis/cellular-automaton.git
    ```
 
 1. Install dependencies
