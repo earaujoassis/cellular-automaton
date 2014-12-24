@@ -28,4 +28,4 @@
 
 Please refer to the included **LICENSE file** for terms of use.
 
-[MIT License](http://ewerton-araujo.mit-license.org/) &copy; Ewerton Assis
+[MIT License](http://earaujoassis.mit-license.org/) &copy; Ewerton Assis
