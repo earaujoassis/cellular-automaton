@@ -1,14 +1,14 @@
 {
-  "name": "hexagol",
+  "name": "cellular-automaton",
   "version": "0.0.0",
-  "description": "An hexagonal Game of Life implementation",
+  "description": "A Game of Life implementation in HTML5, CSS3, and JavaScript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/earaujoassis/hexagol.git"
+    "url": "git://github.com/earaujoassis/cellular-automaton.git"
   },
   "keywords": [
     "webapp",
@@ -23,12 +23,13 @@
   "author": "Ewerton Assis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/earaujoassis/hexagol/issues"
+    "url": "https://github.com/earaujoassis/cellular-automaton/issues"
   },
-  "homepage": "https://github.com/earaujoassis/hexagol",
+  "homepage": "https://github.com/earaujoassis/cellular-automaton",
   "devDependencies": {
-    "grunt-cli": "~0.1.13",
     "grunt": "~0.4.2",
-    "grunt-contrib-connect": "~0.6.0"
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-connect": "~0.6.0",
+    "grunt-contrib-copy": "^0.8.0"
   }
 }

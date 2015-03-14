@@ -9,9 +9,19 @@ module.exports = function (grunt) {
                     keepalive: true
                 }
             }
+        },
+
+        copy: {
+            main: {
+                expand: true,
+                cwd: 'source/',
+                src: '**',
+                dest: 'site/'
+            }
         }
     });
 
     grunt.loadNpmTasks('grunt-contrib-connect');
+    grunt.loadNpmTasks('grunt-contrib-copy');
 
 };
