@@ -58,11 +58,11 @@ a {
 .main-footer {
     padding: 90px 10% 30px;
     color: #878787;
-    font-size: 1.2em;
+    font-size: 1.1em;
 }
 
 .main-footer p {
-    margin: 0;
+    margin: 0 0 5px;
 }
 
 .grid rect,
