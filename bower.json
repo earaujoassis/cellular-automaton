@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "homepage": "https://github.com/earaujoassis/cellular-automaton",
   "authors": [
-    "Ewerton Assis <hello@dearaujoassis.com>"
+    "Ewerton Assis <earaujoassis@gmail.com>"
   ],
   "description": "A Game of Life implementation in HTML5, CSS3, and JavaScript",
   "main": "site/index.html",
